@@ -83,12 +83,12 @@ function BankAccount(name, balance) {
     }
   };
   
-  taskList.addTask("Buy groceries");
-  taskList.addTask("Clean room");
-  taskList.addTask("Read a book");
-  taskList.addTask("Finish homework");
+  taskList.addTask("Washed clothes");
+  taskList.addTask("Clean utensils");
+  taskList.addTask("Go to the market");
+  taskList.addTask("Prepare dinner");
   
-  taskList.completeTask("Clean room");
+  taskList.completeTask("Clean rooms");
   
   taskList.listTasks();
 
