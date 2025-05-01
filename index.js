@@ -206,11 +206,11 @@ console.log(`Recommendation: ${movie1.recommend()}`);
 
         
 console.log(`"${movie2.title}" is classic movie: ${movie2.isClassic()}`);
-console.log(`Recommendation: ${movie1.recommend()}`);
+console.log(`Recommendation: ${movie2.recommend()}`);
 
         
 console.log(`"${movie3.title}" is classic movie: ${movie3.isClassic()}`);
-console.log(`Recommendation: ${movie1.recommend()}`);
+console.log(`Recommendation: ${movie3.recommend()}`);
   
   
   
